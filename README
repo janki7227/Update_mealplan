@@ -1,0 +1,3 @@
+#Introduction
+Reading and Retriving all Meal plan related emailes (Search Inbox based on Specific Subject line). Based on Student Id and amount 
+mentioned in email add that value in database and give Notification about the Updation.
